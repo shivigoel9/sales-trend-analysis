@@ -1,0 +1,24 @@
+
+SALES TREND ANALYSIS REPORT
+===========================
+
+Dataset: Sales Data.csv
+Valid records: 185950
+Total revenue: 34492035.97
+Unique customers: 0
+Total orders/transactions: 185950
+
+Best sales month: 2019-12
+Revenue in best month: 4613443.34
+Top product by revenue: Macbook Pro Laptop
+Highest-spending customer: Customer ID unavailable
+
+BUSINESS RECOMMENDATIONS
+------------------------
+1. Monitor high-revenue products and plan inventory accordingly.
+2. Study promotions and events during the best-performing month.
+3. Consider loyalty offers for repeat and high-spending customers.
+4. Investigate weaker sales periods before planning discounts.
+5. Use monthly sales trends to improve business forecasting.
+
+Note: Recommendations are based on the available dataset.
